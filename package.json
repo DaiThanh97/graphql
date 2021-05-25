@@ -1,0 +1,17 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "server graphql",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^2.24.1",
+    "express": "^4.17.1",
+    "graphql": "^15.5.0",
+    "mongoose": "^5.12.11"
+  }
+}
