@@ -2,12 +2,14 @@ const books = [
     {
         id: 1,
         name: 'Eminem',
-        genre: 'Action'
+        genre: 'Action',
+        authorId: 2
     },
     {
         id: 2,
         name: 'Naruto',
-        genre: 'Anime'
+        genre: 'Anime',
+        authorId: 3
     }
 ];
 
